@@ -21,8 +21,9 @@ The Colorado Boad of Elections Commission has requested some data to complete an
 ### Election Audit Results
 * There were a total of 369,711 votes cast
 * The Candidates were:
-  *Charles Casper Stockham
-  *
+  * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
 
 ### Election Audit Summary
 
