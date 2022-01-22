@@ -25,11 +25,9 @@ The Colorado Boad of Elections Commission has requested some data to complete an
   * Diana DeGette
   * Raymon Anthony Doane
 * The percentage of votes each candidate won:
-
-  * Charles Casper Stockham: 46.1% (170,426)
-  * Diana DeGette: 147.6% (545,784)
-  * Raymon Anthony Doane: 6.3% (23,212)
-
+  * Charles Casper Stockham: 23.0% (85,213)
+  * Diana DeGette: 73.8% (272,892)
+  * Raymon Anthony Doane: 3.1% (11,606)
 ### Election Audit Summary
 
 
