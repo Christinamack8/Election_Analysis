@@ -19,7 +19,10 @@ The Colorado Boad of Elections Commission has requested some data to complete an
 
 ## Analysis
 ### Election Audit Results
-* There were a total of 369,711 votes cast.
+* There were a total of 369,711 votes cast
+* The Candidates were:
+  *Charles Casper Stockham
+  *
 
 ### Election Audit Summary
 
