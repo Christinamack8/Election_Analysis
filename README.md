@@ -43,7 +43,9 @@ The Colorado Boad of Elections Commission has requested some data to complete an
 
 ### Election Audit Summary
 
+Election Commission:
 
+You can see the benefits of this script to quickly audit an election.  Furthermore, you could modify the script to determine the ages, identfied sexual orientation, and indendified race. If there were a lower turnout in any of these categories, you could identify a possible need to for these groups to gain access to voting.
 
 
 
