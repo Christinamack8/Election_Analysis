@@ -20,6 +20,10 @@ The Colorado Boad of Elections Commission has requested some data to complete an
 ## Analysis
 ### Election Audit Results
 * There were a total of 369,711 votes cast
+* Votes and Percentage of Votes of each county:
+  * Jefferson: 10.5% (38,855)
+  * Denver: 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
 * The Candidates:
   * Charles Casper Stockham
   * Diana DeGette
