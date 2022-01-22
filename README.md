@@ -20,10 +20,15 @@ The Colorado Boad of Elections Commission has requested some data to complete an
 ## Analysis
 ### Election Audit Results
 * There were a total of 369,711 votes cast
-* The Candidates were:
+* The Candidates:
   * Charles Casper Stockham
   * Diana DeGette
   * Raymon Anthony Doane
+* The percentage of votes each candidate won:
+
+  * Charles Casper Stockham: 46.1% (170,426)
+  * Diana DeGette: 147.6% (545,784)
+  * Raymon Anthony Doane: 6.3% (23,212)
 
 ### Election Audit Summary
 
